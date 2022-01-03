@@ -1,4 +1,5 @@
 #Learn@Home
+
 "**Learn@Home**" est une application qui met en relation des enfants en difficulté scolaire avec des enseignants bénévoles.
  Projet 10 de la formation OpenClassrooms "Développeur Front End", dans lequel je dois me mettre dans la peau du chef de projet et 
 définir les besoins de l'application.
@@ -15,18 +16,16 @@ un projet Github (Kanban) avec les prinpales tâches à réaliser.
 Home (organisation application | stack technique)
 Pages de l'application : Connection | Tableau de bord | Tâches | Chat | Calendrier
 
-Liens utiles :
+##**Liens utiles :**
+Répo Github contenant **les diagrammes** de cas d'utilisation, **user-Story** et **Kanban** en pdf :
+ https://github.com/NymeriaLucky/P10_Learn_Home
 
-Répo Github contenant les diagrammes de cas d'utilisation et user-Story en pdf : https://github.com/NymeriaLucky/P10_Learn_Home
+**- Maquette de l'application :** [Figma](https://www.figma.com/file/8VBYUpaLF02rpsUpa4tfsQ/Maquette-Learn-Home?node-id=0%3A1).
 
-Maquette de l'application : [Figma](https://www.figma.com/file/8VBYUpaLF02rpsUpa4tfsQ/Maquette-Learn-Home?node-id=0%3A1).
-Présentation détaillée :[Figma] (https://www.figma.com/proto/8VBYUpaLF02rpsUpa4tfsQ/Maquette-Learn-Home?node-id=2%3A83&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=2%3A989)
+**- Présentation détaillée :** [Figma](https://www.figma.com/proto/8VBYUpaLF02rpsUpa4tfsQ/Maquette-Learn-Home?node-id=2%3A83&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=2%3A989)
 
-Kanban du projet : lien kanban :[Kanban](https://miro.com/app/board/uXjVOYK6AcM=/).
+**- Kanban du projet :** lien direct kanban :[Kanban](https://miro.com/app/board/uXjVOYK6AcM=/).
 
-###License
+#####License
 Il s'agit d'un projet dans le cadre de la formation Développeur Front-End d'OpenClassrooms. Merci de ne pas copier.
-
-
-
 
