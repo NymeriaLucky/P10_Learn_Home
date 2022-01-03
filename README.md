@@ -1,4 +1,4 @@
-#Learn@Home
+# Learn@Home
 
 "**Learn@Home**" est une application qui met en relation des enfants en difficulté scolaire avec des enseignants bénévoles.
  Projet 10 de la formation OpenClassrooms "Développeur Front End", dans lequel je dois me mettre dans la peau du chef de projet et 
@@ -11,7 +11,7 @@ les composants essentiels qui doivent être dévelopés, des user stories et un 
 J'ai également réalisé avec Figma une première ébauche d'une maquette dynamique. Enfin, j'ai d'ors et déjà commencé à remplir 
 un projet Github (Kanban) avec les prinpales tâches à réaliser.
 
-##Documentation :
+## Documentation :
 
 Home (organisation application | stack technique)
 Pages de l'application : Connection | Tableau de bord | Tâches | Chat | Calendrier
@@ -26,6 +26,6 @@ Répo Github contenant **les diagrammes** de cas d'utilisation, **user-Story** e
 
 **- Kanban du projet :** lien direct kanban :[Kanban](https://miro.com/app/board/uXjVOYK6AcM=/).
 
-#####License
+##### License
 Il s'agit d'un projet dans le cadre de la formation Développeur Front-End d'OpenClassrooms. Merci de ne pas copier.
 
