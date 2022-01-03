@@ -16,7 +16,7 @@ un projet Github (Kanban) avec les prinpales tâches à réaliser.
 Home (organisation application | stack technique)
 Pages de l'application : Connection | Tableau de bord | Tâches | Chat | Calendrier
 
-##**Liens utiles :**
+## **Liens utiles :**
 Répo Github contenant **les diagrammes** de cas d'utilisation, **user-Story** et **Kanban** en pdf :
  https://github.com/NymeriaLucky/P10_Learn_Home
 
@@ -26,6 +26,6 @@ Répo Github contenant **les diagrammes** de cas d'utilisation, **user-Story** e
 
 **- Kanban du projet :** lien direct kanban :[Kanban](https://miro.com/app/board/uXjVOYK6AcM=/).
 
-##### License
+##### License :
 Il s'agit d'un projet dans le cadre de la formation Développeur Front-End d'OpenClassrooms. Merci de ne pas copier.
 
